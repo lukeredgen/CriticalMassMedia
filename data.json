@@ -1,0 +1,22 @@
+{
+  "artists": [
+    {
+      "id": 1,
+      "name": "Radiohead"
+    }
+  ],
+  "albums": [
+    {
+      "id": 1,
+      "name": "OK Computer",
+      "artistId": 1
+    },
+    {
+      "id": 2,
+      "name": "Pablo Honey",
+      "grade": "B",
+      "review": "fsda",
+      "artistId": 1
+    }
+  ]
+}
